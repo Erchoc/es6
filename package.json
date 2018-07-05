@@ -1,0 +1,14 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "a es6 demo project.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "",
+  "license": "MIT"
+}
